@@ -38,4 +38,14 @@ The project consists of three main tasks:
 2. Open the Jupyter Notebook file (.ipynb) in Jupyter Notebook or VS Code.
 
 3. Run the notebook cells sequentially to generate all visualizations and analyses.
+
+## Let's Connect
+
+If you're interested in data science or have any questions regarding this repo, feel free to connect or reach out!
+
+🔗 LinkedIn: [www.linkedin.com/in/asufiya](https://www.linkedin.com/in/asufiya)
+
+✉️ Email: [afzal.sufiya@outlook.com](afzal.sufiya@outlook.com)
+
+
    
