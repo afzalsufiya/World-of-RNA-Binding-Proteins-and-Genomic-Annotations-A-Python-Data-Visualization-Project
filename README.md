@@ -33,7 +33,7 @@ The project consists of three main tasks:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/afzalsufiya/World-of-RNA-Binding-Proteins-and-Genomic-Annotations-A-Python-Data-Visualization-Project.git
 
 2. Open the Jupyter Notebook file (.ipynb) in Jupyter Notebook or VS Code.
 
